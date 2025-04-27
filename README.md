@@ -1,2 +1,3 @@
-# my-new-AI-project
+# Painting with AI
 Building AI course project
+
